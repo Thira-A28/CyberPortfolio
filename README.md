@@ -7,8 +7,8 @@ I'm Thiranja Aththanayake, an undergraduate in Computing with a strong passion f
 This portfolio documents my progress, projects, and practical experiences as I work toward my dream career in security operations and threat detection.
 
 ## Contents 🛡️
-~ Wireshark – Network Traffic Analysis Report 1.
-~ Windows Event Log Generation and Analysis Activity.
+1.  Wireshark – Network Traffic Analysis Report 1.
+2. Windows Event Log Generation and Analysis Activity.
 
 
 
